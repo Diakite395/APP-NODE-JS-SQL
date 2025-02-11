@@ -1,0 +1,5 @@
+Material Icon Theme
+Dracula Theme
+Auto Rename Tag
+IntelliCode
+Template String Converter
